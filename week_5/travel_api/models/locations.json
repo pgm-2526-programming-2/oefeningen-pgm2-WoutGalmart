@@ -1,0 +1,112 @@
+[
+  {
+    "uuid": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+    "name": "Eiffel Tower",
+    "country": "France",
+    "city": "Paris",
+    "coordinates": {
+      "latitude": 48.8584,
+      "longitude": 2.2945
+    }
+  },
+  {
+    "uuid": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4bed",
+    "name": "Statue of Liberty",
+    "country": "United States",
+    "city": "New York",
+    "coordinates": {
+      "latitude": 40.6892,
+      "longitude": -74.0445
+    }
+  },
+  {
+    "uuid": "6ec0bd7f-11c0-43da-975e-2a8ad9ebae0b",
+    "name": "Shibuya Crossing",
+    "country": "Japan",
+    "city": "Tokyo",
+    "coordinates": {
+      "latitude": 35.6595,
+      "longitude": 139.7004
+    }
+  },
+  {
+    "uuid": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "name": "Sydney Opera House",
+    "country": "Australia",
+    "city": "Sydney",
+    "coordinates": {
+      "latitude": -33.8568,
+      "longitude": 151.2153
+    }
+  },
+  {
+    "uuid": "c9e9d6d3-9e9b-4f9a-9e9b-7e9c9d9e9f9a",
+    "name": "Colosseum",
+    "country": "Italy",
+    "city": "Rome",
+    "coordinates": {
+      "latitude": 41.8902,
+      "longitude": 12.4922
+    }
+  },
+  {
+    "uuid": "a5f8c6d1-4b7d-4c3a-9e1b-8f7d6e5c4b3a",
+    "name": "Christ the Redeemer",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
+    "coordinates": {
+      "latitude": -22.9519,
+      "longitude": -43.2105
+    }
+  },
+  {
+    "uuid": "d2e3f4g5-h6i7-j8k9-l0m1-n2o3p4q5r6s7",
+    "name": "Table Mountain",
+    "country": "South Africa",
+    "city": "Cape Town",
+    "coordinates": {
+      "latitude": -33.9628,
+      "longitude": 18.4098
+    }
+  },
+  {
+    "uuid": "e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
+    "name": "Burj Khalifa",
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "coordinates": {
+      "latitude": 25.1972,
+      "longitude": 55.2744
+    }
+  },
+  {
+    "uuid": "550e8400-e29b-41d4-a716-446655440000",
+    "name": "Machu Picchu",
+    "country": "Peru",
+    "city": "Cusco Region",
+    "coordinates": {
+      "latitude": -13.1631,
+      "longitude": -72.545
+    }
+  },
+  {
+    "uuid": "7f8g9h0i-1j2k-3l4m-5n6o-7p8q9r0s1t2u",
+    "name": "Great Pyramid of Giza",
+    "country": "Egypt",
+    "city": "Cairo",
+    "coordinates": {
+      "latitude": 29.9792,
+      "longitude": 31.1342
+    }
+  },
+  {
+    "uuid": "8a2b3c4d-5e6f-7g8h-9i0j-k1l2m3n4o5p6",
+    "name": "Taj Mahal",
+    "country": "India",
+    "city": "Agra",
+    "coordinates": {
+      "latitude": 27.1751,
+      "longitude": 78.0421
+    }
+  }
+]
